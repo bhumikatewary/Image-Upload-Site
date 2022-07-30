@@ -1,3 +1,3 @@
 # Image-Upload-Site
 
-<img src="" height="500px" width="500px">
+<img src="image.jpeg" height="300px" width="500px">
